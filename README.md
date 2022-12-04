@@ -31,6 +31,8 @@ My attempt at the Advent of Code 2022
 
 - [x] day 1
 - [x] day 2
-- [ ] day 3
+- [x] day 3
+- [x] day 4
+- [ ] day 5
 
 *Quality over speed...*
